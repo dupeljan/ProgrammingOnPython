@@ -1,0 +1,25 @@
+<root>
+  <genre>
+    <id>0,INTEGER</id>
+    <name>Classic music,TEXT</name>
+  </genre>
+  <musician>
+    <id>0,INTEGER</id>
+    <name>Иоганн Себастьян Бах,TEXT</name>
+    <DOB>1685-03-31,DATE</DOB>
+  </musician>
+  <allTables>
+    <id>0,INTEGER</id>
+    <name_misic>Цвет настроения синий,TEXT</name_misic>
+    <name_musician>Вольфган Амадей Моцарт,TEXT</name_musician>
+    <DOB_musician>1756-01-27,DATE</DOB_musician>
+    <name_genre>Hip-Hop music,TEXT</name_genre>
+  </allTables>
+  <allTables>
+    <id>1,INTEGER</id>
+    <name_misic>Беливер,TEXT</name_misic>
+    <name_musician>Иоганн Себастьян Бах,TEXT</name_musician>
+    <DOB_musician>1685-03-31,DATE</DOB_musician>
+    <name_genre>Classic music,TEXT</name_genre>
+  </allTables>
+</root>
